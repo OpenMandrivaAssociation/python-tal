@@ -13,6 +13,7 @@ Source:		%{name}-%{version}.tar.bz2
 URL:		http://dev.zope.org/Wikis/DevSite/Projects/ZPT/FrontPage
 License:	Zope Public Licence
 Group:		 Development/Python
+BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	python-devel
 Requires:	python
 BuildArch: noarch
