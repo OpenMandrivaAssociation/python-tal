@@ -1,6 +1,6 @@
 %define name	python-tal
 %define version 1.5.0
-%define release %mkrel 10
+%define release %mkrel 11
 
 Name: 	 	%name
 Summary: 	Zope Template Attribute Language (TAL) Python module
