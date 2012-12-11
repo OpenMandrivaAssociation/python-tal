@@ -56,3 +56,52 @@ rm -rf $RPM_BUILD_ROOT
 
 
 
+
+
+%changelog
+* Tue Sep 15 2009 Thierry Vignaud <tv@mandriva.org> 1.5.0-13mdv2010.0
++ Revision: 442507
+- rebuild
+
+* Fri Jan 02 2009 Funda Wang <fwang@mandriva.org> 1.5.0-12mdv2009.1
++ Revision: 323377
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 1.5.0-11mdv2009.0
++ Revision: 259831
+- rebuild
+
+* Fri Jul 25 2008 Thierry Vignaud <tv@mandriva.org> 1.5.0-10mdv2009.0
++ Revision: 247695
+- rebuild
+
+* Sat Dec 29 2007 Guillaume Rousse <guillomovitch@mandriva.org> 1.5.0-8mdv2008.1
++ Revision: 139216
+- rebuild
+
+  + Olivier Blin <oblin@mandriva.com>
+    - restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Wed Dec 13 2006 Nicolas Lécureuil <neoclust@mandriva.org> 1.5.0-7mdv2007.0
++ Revision: 96065
+- Rebuild against new python
+- Rebuild against new Python
+- import python-tal-1.5.0-5mdk
+
+* Wed May 03 2006 Michael Scherer <misc@mandriva.org> 1.5.0-5mdk
+- use python macro
+- use mkrel
+
+* Thu Feb 03 2005 Michael Scherer <misc@mandrake.org> 1.5.0-4mdk
+- Really rebuild for new python
+
+* Sun Dec 05 2004 Michael Scherer <misc@mandrake.org> 1.5.0-3mdk
+- Rebuild for new python
+
+* Fri Sep 03 2004 Michael Scherer <misc@mandrake.org> 1.5.0-2mdk 
+- rebuild
+
