@@ -10,7 +10,7 @@ Release: 	%release
 # (misc)  stolen on debian site
 # the original "Source" file is http://ftp.debian.org/debian/pool/main/p/python-tal/python-tal_1.5.0.orig.tar.gz
 Source:		%{name}-%{version}.tar.bz2
-URL:		http://dev.zope.org/Wikis/DevSite/Projects/ZPT/FrontPage
+URL:		https://dev.zope.org/Wikis/DevSite/Projects/ZPT/FrontPage
 License:	Zope Public Licence
 Group:		 Development/Python
 BuildRoot:	%{_tmppath}/%{name}-buildroot
